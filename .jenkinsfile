@@ -21,7 +21,7 @@ echo "deploying the code"
 }
 }
 
-stage('test)
+stage('test')
 {
 steps
 {
